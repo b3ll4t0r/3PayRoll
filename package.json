@@ -1,0 +1,17 @@
+{
+  "name": "hackaton",
+  "version": "0.0.1",
+  "description": "Disrupt Payments Hackathon for PayPal",
+  "main": "index.js",
+  "dependencies": {
+    "rfid-pn532": "~0.1.7",
+    "rx": "^2.3.22",
+    "sdcard": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
